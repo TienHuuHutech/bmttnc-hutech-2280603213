@@ -178,6 +178,4 @@ pyrightconfig.json
 *.pyproj
 
 # End of https://www.toptal.com/developers/gitignore/api/python
-/bmttnc-hutech-2280603213/bmttnc-hutech-2280603213.pyproj.user
 *.user
-/bmttnc-hutech-2280603213/requirements.txt
